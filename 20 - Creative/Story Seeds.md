@@ -94,6 +94,8 @@ This feels like a piece. Or a long-form essay. Or an opening monologue.
 
 ## Vera Molnár and the machine that finally arrived (April 2026)
 
+> *Vera Molnár kept going once the machine arrived — same as what's happened today, as long as you're creating with intention.*
+
 *A seed about intention outlasting the tool.*
 
 Vera Molnár spent decades drawing algorithmic art by hand — grids, permutations, systematic variations — before computers existed. She was approximating a machine with her body. Then the machines arrived. And she just kept going.
