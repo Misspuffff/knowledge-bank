@@ -92,6 +92,24 @@ This feels like a piece. Or a long-form essay. Or an opening monologue.
 
 ---
 
+## Vera Molnár and the machine that finally arrived (April 2026)
+
+*A seed about intention outlasting the tool.*
+
+Vera Molnár spent decades drawing algorithmic art by hand — grids, permutations, systematic variations — before computers existed. She was approximating a machine with her body. Then the machines arrived. And she just kept going.
+
+Same intention. New tool. Nothing essential changed.
+
+That's the story of every artist who's still creating with purpose in the age of generative AI. The machine didn't replace the intention — it just stopped being the bottleneck. The ones who were already asking *why* before they had the *how* barely broke stride. The ones who were only ever chasing the *how* got lost.
+
+Molnár didn't panic when the computer arrived because she already knew what she was making and why. The tool was always beside the point.
+
+That's the test. Not "can you use the machine" — but "do you still know what you're doing when the machine does the hard part?"
+
+As long as you're creating with intention, the arrival of a new tool is just an upgrade. The work continues.
+
+---
+
 ## Cave stories and the moral internet (April 2026)
 
 *A rant that might be a manifesto.*
