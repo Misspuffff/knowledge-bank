@@ -9,6 +9,7 @@
 | Note | What it is |
 |---|---|
 | [[00 - Inbox/Drop Zone\|Drop Zone]] | Frictionless capture — dump it here first |
+| [[00 - Inbox/Try out Obsidian and OpenClaw add-ons\|Try out Obsidian and OpenClaw add-ons]] | Explore community plugins + clawhub.ai skills to extend functionality |
 
 ---
 
@@ -25,6 +26,8 @@
 | [[10 - Learning/Design Concepts\|Design Concepts]] | Core positioning, storytelling, brand voice, SCADpro breakdowns |
 | [[10 - Learning/IDSA SDDC - Storytelling for Design\|IDSA SDDC — Storytelling for Design]] | Storytelling frameworks, explore vs explain, 5/5/50 rule |
 | [[10 - Learning/Sentido - Stickies and Highlights\|Sentido — Stickies and Highlights]] | Book notes: philosophy, identity, career, systems thinking |
+| [[10 - Learning/Vera Molnar\|Vera Molnár]] | Generative art pioneer — algorithmic drawing, body-to-output, connections to AIR |
+| [[10 - Learning/YouTube Channels\|YouTube Channels]] | Curated AI, engineering, and creative channels worth following |
 
 ---
 
@@ -35,6 +38,7 @@
 | [[20 - Creative/Creative MOC\|Creative MOC]] | Index of everything in this folder |
 | [[20 - Creative/Story Seeds\|Story Seeds]] | Fragments, what-ifs, philosophical musings, lines worth keeping |
 | [[20 - Creative/Active Projects\|Active Projects]] | All active project statuses + next steps in one place |
+| [[20 - Creative/Ideas\|Ideas]] | Running capture of creative ideas as they come |
 | [[20 - Creative/AIR/AIR MOC\|AIR]] | Browser performance instrument — MediaPipe + Tone.js (Phase 2) |
 | [[20 - Creative/Flow/Flow MOC\|Flow]] | AI creative catalyst — Gemini API (visual refinement active) |
 | [[20 - Creative/IWD 2026/IWD 2026 MOC\|IWD 2026]] | Gender gap editorial web experience (complete) |
@@ -51,6 +55,7 @@
 | [[30 - Reference/Interesting Links\|Interesting Links]] | Curated links: making, art, learning, rabbit holes |
 | [[30 - Reference/Design References\|Design References]] | Visual aesthetics, references, what they argue |
 | [[30 - Reference/Work Glossary\|Work Glossary]] | Terms and acronyms picked up from client projects |
+| [[30 - Reference/Reading List\|Reading List]] | Articles and links queued to read |
 
 ---
 
@@ -71,6 +76,7 @@
 | Note | What it is |
 |---|---|
 | [[50 - People/People MOC\|People MOC]] | Active contacts overview |
+| [[50 - People/Gunnar\|Gunnar]] | Partner — birthday May 22 |
 | [[50 - People/Aimée Heikkila\|Aimée Heikkila]] | Adobe recruiter — waiting on role posting |
 | [[50 - People/Dayna Weir\|Dayna Weir]] | Simplicity CI — Microsoft contract role |
 | [[50 - People/Emily Rodrigues\|Emily Rodrigues]] | Adobe talent coordinator — PM path conversation |
@@ -80,7 +86,7 @@
 ---
 
 ## How to use this file
-- **Can't remember where something is?** Cmd+click any link.
+- **Can't find something?** Cmd+click any link.
 - **Added a new note?** Add a row here immediately — one line, one sentence.
 
 *Last updated: April 2026*

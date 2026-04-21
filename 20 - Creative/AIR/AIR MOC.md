@@ -1,9 +1,14 @@
 ---
-tags: [project/air, MOC, active]
+tags:
+  - project/air
+  - MOC
+  - active
 created: 2026-04-15
-status: active
+status: paused
 type: MOC
-aliases: [Audiovisual Instrument in Real-time, purplemonkey]
+aliases:
+  - Audiovisual Instrument in Real-time
+  - purplemonkey
 ---
 
 # AIR — Map of Content
