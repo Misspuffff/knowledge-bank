@@ -9,10 +9,10 @@
 - [ ] Review hook copy for Earth Day post — ensure it's catchy and direct *(from Apr 20 standup)*
 
 - [x] Request MailChimp credentials from Monica ✅ 2026-04-21
-- [ ] Request help desk email access from Monica
+- [x] Request help desk email access from Monica ✅ 2026-04-21
 - [ ] Review updated promo code screens — calibrate tone/context expectations
 - [ ] Write "How It Works" page copy — storytelling headers, consistent density; save Word doc to Drive
-  - [ ] Confirm live page link from manager
+  - [x] Confirm live page link from manager ✅ 2026-04-21
   - [ ] Confirm which version of the page copy is the current baseline
 
 ---
