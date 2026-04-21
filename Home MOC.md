@@ -1,3 +1,7 @@
+---
+tags: [type/MOC, status/active, context/home]
+---
+
 # Home
 
 > *Your vault's front door. Keep this lean — link to what matters right now.*
