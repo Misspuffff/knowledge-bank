@@ -1,10 +1,12 @@
 # The Lookline — Outstanding Tasks
 
-*Last updated: April 17, 2026*
+*Last updated: April 21, 2026*
 
 ---
 
 ## 🔴 High Priority
+
+- [ ] Review hook copy for Earth Day post — ensure it's catchy and direct *(from Apr 20 standup)*
 
 - [ ] Request MailChimp credentials from Monica
 - [ ] Request help desk email access from Monica
@@ -29,4 +31,4 @@
 
 ---
 
-*See also: [[The Lookline — Onboarding Notes]]*
+*See also: [[The Lookline — Onboarding Notes]] · [[TLL 2026 — Creative Team Standup (Apr 20)]]*
