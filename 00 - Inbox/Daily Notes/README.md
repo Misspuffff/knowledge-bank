@@ -1,3 +1,9 @@
+---
+tags:
+  - type/reference
+  - context/inbox
+  - topic/workflow
+---
 # Daily Notes
 
 > Daily notes land here automatically if you configure Obsidian's Daily Notes plugin to use this folder.

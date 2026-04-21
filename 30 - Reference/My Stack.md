@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - context/reference
+  - topic/tools
+  - topic/tech-stack
+---
 # My Stack & Tools
 
 > What I actually use and how I think about each thing.

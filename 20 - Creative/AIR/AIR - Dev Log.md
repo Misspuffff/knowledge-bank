@@ -1,5 +1,8 @@
 ---
-tags: [project/air, devlog]
+tags:
+  - type/log
+  - project/air
+  - topic/development
 created: 2026-04-15
 type: log
 ---

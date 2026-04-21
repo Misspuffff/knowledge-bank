@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/support
+---
 # 06 — FAQ
 *Question bank organized by audience and category. Copy drafts to follow.*
 

@@ -1,12 +1,11 @@
 ---
 epoch: 1776347112518
-modelKey: "claude-sonnet-4-6|anthropic"
-topic: "Huxe App Learning Note Logged"
-
-
-
+modelKey: claude-sonnet-4-6|anthropic
+topic: Huxe App Learning Note Logged
 tags:
-  - claude-conversation
+  - type/conversation
+  - context/claude
+  - topic/tools
 ---
 
 **user**: add a note or log somewhere that i want to learn more about the huxe app

@@ -1,5 +1,9 @@
 ---
-tags: [project/air, interaction, design]
+tags:
+  - type/reference
+  - project/air
+  - topic/interaction
+  - topic/design
 created: 2026-04-15
 type: reference
 ---

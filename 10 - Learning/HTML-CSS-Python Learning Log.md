@@ -1,3 +1,10 @@
+---
+tags:
+  - type/log
+  - context/learning
+  - topic/coding
+  - status/active
+---
 # 🧠 HTML / CSS / Python Learning Log
 *Taught by Claude · Updated live in Obsidian*
 

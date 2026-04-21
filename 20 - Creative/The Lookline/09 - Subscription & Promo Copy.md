@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/promo
+---
 # 09 — Subscription & Promo Copy
 *Stylist subscription screen copy, promo code strategy, and free trial UX.*
 

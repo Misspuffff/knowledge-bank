@@ -1,9 +1,14 @@
 ---
-tags: [project/flow, tech, architecture]
+tags:
+  - type/reference
+  - project/flow
+  - topic/architecture
+  - topic/tech-stack
 created: 2026-04-15
 status: active
 type: technical
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — Architecture & Tech Stack

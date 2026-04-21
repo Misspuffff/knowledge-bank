@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/scadpro, client/skullcandy, status/complete, format/ai-companion, format/web-experience]
+tags:
+  - type/project
+  - context/scadpro
+  - client/skullcandy
+  - status/complete
 ---
 
 # Skullcandy — CANDI

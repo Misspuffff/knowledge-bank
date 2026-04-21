@@ -1,9 +1,14 @@
 ---
-tags: [project/flow, MOC, active]
+tags:
+  - type/MOC
+  - project/flow
+  - status/active
 created: 2026-04-15
 status: active
 type: MOC
-aliases: [IdeationBot, FlowBoard]
+aliases:
+  - IdeationBot
+  - FlowBoard
 ---
 
 # Flow — Map of Content

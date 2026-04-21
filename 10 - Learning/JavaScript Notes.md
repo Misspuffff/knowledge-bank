@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - context/learning
+  - topic/coding
+  - topic/javascript
+---
 # JavaScript Notes
 
 *Running notes as you learn. Concepts, patterns, things that clicked.*

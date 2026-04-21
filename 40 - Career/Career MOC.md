@@ -1,3 +1,9 @@
+---
+tags:
+  - type/MOC
+  - context/career
+  - status/active
+---
 # Career MOC
 
 > Job search, portfolio, professional identity. One place to track all of it.

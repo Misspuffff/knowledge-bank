@@ -4,6 +4,10 @@ copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1060
 copilot-command-model-key: ""
 copilot-command-last-used: 0
+tags:
+  - type/prompt
+  - context/claude
+  - topic/writing
 ---
 Reduce {} to half its length while preserving these elements:
     1. Main ideas and key points

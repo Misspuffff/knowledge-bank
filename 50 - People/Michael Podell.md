@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/proto
+---
 # Michael Podell
 
 **Role:** Verbal designer @ [Proto](https://wearepro.to)

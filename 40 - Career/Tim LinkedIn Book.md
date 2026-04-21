@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/career
+  - topic/linkedin
+  - topic/networking
+---
 # Tim's LinkedIn Book
 
 **Status:** Not started

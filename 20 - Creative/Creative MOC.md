@@ -1,3 +1,9 @@
+---
+tags:
+  - type/MOC
+  - context/creative
+  - status/active
+---
 # Creative MOC
 
 > Writing, projects, and builds. One place to see everything active and everything seeded.

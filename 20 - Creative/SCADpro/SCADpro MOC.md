@@ -1,5 +1,8 @@
 ---
-tags: [type/MOC, context/scadpro, status/archive]
+tags:
+  - type/MOC
+  - context/scadpro
+  - status/archive
 ---
 
 # SCADpro MOC

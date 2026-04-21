@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - context/learning
+  - topic/ai
+  - topic/tools
+---
 # AI Tools & Prompts
 
 *A living log of tools, observations, and prompts worth keeping.*

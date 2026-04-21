@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - context/inbox
+  - status/active
+---
 # Drop Zone
 
 > Capture first, sort never (or later). This is a no-friction zone.

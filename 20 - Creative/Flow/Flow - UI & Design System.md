@@ -1,9 +1,14 @@
 ---
-tags: [project/flow, design, UI, motion]
+tags:
+  - type/reference
+  - project/flow
+  - topic/design-system
+  - topic/ui
 created: 2026-04-15
 status: active
 type: design-reference
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — UI & Design System

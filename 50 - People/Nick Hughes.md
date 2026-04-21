@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/parliament
+---
 # Nick Hughes
 
 **Role:** Copywriter / CD @ Parliament

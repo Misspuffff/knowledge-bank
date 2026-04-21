@@ -1,5 +1,8 @@
 ---
-tags: [type/reference, context/career, status/active]
+tags:
+  - type/reference
+  - context/career
+  - topic/education
 ---
 
 # Academic Records

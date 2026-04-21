@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/microsoft
+---
 # Dayna Weir
 
 **Role:** Recruiter @ Simplicity CI

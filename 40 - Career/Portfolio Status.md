@@ -1,3 +1,10 @@
+---
+tags:
+  - type/tracker
+  - context/career
+  - topic/portfolio
+  - status/active
+---
 # Portfolio Status
 
 **Live site:** [claypoole-portfolio.lovable.app](https://claypoole-portfolio.lovable.app) (password: `prettycoolstuff`)

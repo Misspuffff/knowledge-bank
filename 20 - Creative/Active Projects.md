@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - context/creative
+  - status/active
+---
 # Active Projects
 
 > One note per project. Keep it simple: what is it, where is it now, what's next.

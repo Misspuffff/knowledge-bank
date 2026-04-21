@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - context/learning
+  - topic/design
+  - topic/storytelling
+---
 # Design Concepts
 
 *Ideas, frameworks, and vocabulary you're building up as a designer.*

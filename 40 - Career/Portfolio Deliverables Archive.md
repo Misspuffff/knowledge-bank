@@ -1,5 +1,9 @@
 ---
-tags: [type/reference, context/career, status/archive]
+tags:
+  - type/reference
+  - context/career
+  - topic/portfolio
+  - status/archive
 ---
 
 # Portfolio Deliverables Archive

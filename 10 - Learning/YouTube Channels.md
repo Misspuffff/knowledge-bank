@@ -1,3 +1,9 @@
+---
+tags:
+  - type/reference
+  - context/learning
+  - topic/resources
+---
 # YouTube Channels
 
 Recommended channels worth exploring.

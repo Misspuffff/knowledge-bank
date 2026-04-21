@@ -4,6 +4,10 @@ copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1050
 copilot-command-model-key: ""
 copilot-command-last-used: 0
+tags:
+  - type/prompt
+  - context/claude
+  - topic/writing
 ---
 Add relevant emojis to enhance {}. Follow these rules:
     1. Insert emojis at natural breaks in the text

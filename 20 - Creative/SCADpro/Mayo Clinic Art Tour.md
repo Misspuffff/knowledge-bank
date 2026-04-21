@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/scadpro, client/mayo-clinic, status/complete, format/mobile-app]
+tags:
+  - type/project
+  - context/scadpro
+  - client/mayo-clinic
+  - status/complete
 ---
 
 # Mayo Clinic Art Tour

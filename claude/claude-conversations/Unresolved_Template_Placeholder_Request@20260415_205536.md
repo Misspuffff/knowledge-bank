@@ -1,12 +1,11 @@
 ---
 epoch: 1776300936993
-modelKey: "claude-sonnet-4-6|anthropic"
-topic: "Unresolved Template Placeholder Request"
-
-
-
+modelKey: claude-sonnet-4-6|anthropic
+topic: Unresolved Template Placeholder Request
 tags:
-  - claude-conversation
+  - type/conversation
+  - context/claude
+  - topic/workflow
 ---
 
 **user**: Give me a quick recap of {activeNote} in two sentences.

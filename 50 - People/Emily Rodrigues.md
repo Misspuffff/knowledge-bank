@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/adobe
+---
 # Emily Rodrigues
 
 **Role:** Talent Coordinator @ Adobe

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - context/reference
+  - topic/design
+  - topic/resources
+---
 # Design References
 
 > Visual references, aesthetic territories, and work that has influenced your thinking.

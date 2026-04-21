@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/learning
+  - topic/design
+  - topic/research
+---
 # Sentido — Stickies and Highlights
 
 > **Source:** *Sentido* book

@@ -1,5 +1,8 @@
 ---
-tags: [project/air, dev, phases]
+tags:
+  - type/tracker
+  - project/air
+  - topic/development
 created: 2026-04-15
 type: tracker
 ---

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/social
+---
 # 03 — Taglines & Social
 *Tagline candidates, caption ideas, hashtag library.*
 

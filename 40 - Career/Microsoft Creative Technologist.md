@@ -1,3 +1,10 @@
+---
+tags:
+  - type/opportunity
+  - context/career
+  - client/microsoft
+  - status/active
+---
 # Microsoft — Creative Technologist (Contract)
 
 **Status:** 🔵 Applied

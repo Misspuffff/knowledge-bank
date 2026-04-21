@@ -1,9 +1,13 @@
 ---
-tags: [project/flow, brief, vision]
+tags:
+  - type/brief
+  - project/flow
+  - topic/concept
 created: 2026-04-15
 status: active
 type: reference
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — Master Brief

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/learning
+  - topic/generative-art
+  - topic/design
+---
 # Vera Molnár
 
 #learn #art #design #algorithms #generative

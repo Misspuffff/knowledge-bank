@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/brand-voice
+  - topic/copywriting
+---
 # 01 — Brand Voice
 *The canonical reference. When in doubt, come back here.*
 

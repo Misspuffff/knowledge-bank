@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/learning
+  - topic/ai
+  - topic/career
+---
 # ADP List — Careers in AI Panel
 
 > **Source:** ADP List panel event

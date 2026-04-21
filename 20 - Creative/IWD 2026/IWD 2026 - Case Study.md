@@ -1,5 +1,8 @@
 ---
-tags: [project/iwd-2026, case-study, portfolio]
+tags:
+  - type/case-study
+  - project/iwd-2026
+  - topic/research
 created: 2026-04-15
 type: case-study
 status: complete

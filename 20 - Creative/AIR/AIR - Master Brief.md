@@ -1,5 +1,8 @@
 ---
-tags: [project/air, brief, concept]
+tags:
+  - type/brief
+  - project/air
+  - topic/concept
 created: 2026-04-15
 type: brief
 ---

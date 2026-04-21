@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/scadpro, client/google, status/complete, recognition/icml-2024]
+tags:
+  - type/project
+  - context/scadpro
+  - client/google
+  - status/complete
 ---
 
 # Google Gen Z / AI Research

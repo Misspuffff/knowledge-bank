@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/email
+---
 # 05 — Email Notifications: Stylist
 *All stylist-facing transactional emails. Brief + copy drafts in one place.*
 

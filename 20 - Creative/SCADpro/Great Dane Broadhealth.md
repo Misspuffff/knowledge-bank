@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/scadpro, client/great-dane, status/complete]
+tags:
+  - type/project
+  - context/scadpro
+  - client/great-dane
+  - status/complete
 ---
 
 # Great Dane — Broadhealth

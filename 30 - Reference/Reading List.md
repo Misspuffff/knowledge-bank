@@ -1,3 +1,9 @@
+---
+tags:
+  - type/reference
+  - context/reference
+  - topic/reading
+---
 # Reading List
 
 #articles #to-read

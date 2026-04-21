@@ -1,5 +1,8 @@
 ---
-tags: [project/iwd-2026, design-system, visual-language]
+tags:
+  - type/reference
+  - project/iwd-2026
+  - topic/design-system
 created: 2026-04-15
 type: reference
 ---

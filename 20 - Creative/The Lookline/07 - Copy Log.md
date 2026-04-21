@@ -1,3 +1,9 @@
+---
+tags:
+  - type/log
+  - project/lookline
+  - topic/copywriting
+---
 # 07 — Copy Log
 *Running tracker of everything written, reviewed, or still in queue.*
 

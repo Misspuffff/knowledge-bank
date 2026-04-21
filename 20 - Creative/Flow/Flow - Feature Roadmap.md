@@ -1,9 +1,13 @@
 ---
-tags: [project/flow, roadmap, planning]
+tags:
+  - type/roadmap
+  - project/flow
+  - topic/features
 created: 2026-04-15
 status: active
 type: roadmap
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — Feature Roadmap

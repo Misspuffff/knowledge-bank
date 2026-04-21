@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/policies
+---
 # 08 — Policies & Support Copy
 *Source of truth for refund policy, suspension system, and help desk copy.*
 

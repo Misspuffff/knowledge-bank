@@ -1,5 +1,9 @@
 ---
-tags: [type/reference, context/career, status/active]
+tags:
+  - type/tracker
+  - context/career
+  - topic/job-search
+  - status/active
 ---
 
 # Application Tracker

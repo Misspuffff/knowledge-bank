@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/kickr
+---
 # Greg (Kickr)
 
 **Status:** Need to find on LinkedIn

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/log
+  - context/learning
+  - topic/tools
+  - topic/workflow
+---
 # Obsidian + GitHub Learning Log
 
 **Goal:** Get genuinely comfortable navigating Obsidian and GitHub — not just using them, but understanding *why* they work the way they do.

@@ -1,3 +1,9 @@
+---
+tags:
+  - type/reference
+  - context/reference
+  - topic/glossary
+---
 # Work Glossary
 
 > Terms, acronyms, and definitions picked up from client projects and the day-to-day.

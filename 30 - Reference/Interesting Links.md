@@ -1,3 +1,9 @@
+---
+tags:
+  - type/reference
+  - context/reference
+  - topic/resources
+---
 # Interesting Links
 
 > Resources, rabbit holes, and things worth revisiting.

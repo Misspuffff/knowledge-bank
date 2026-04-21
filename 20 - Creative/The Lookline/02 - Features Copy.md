@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/features
+---
 # 02 — Features Copy
 *App feature copy: headlines + body. Organized by feature area.*
 

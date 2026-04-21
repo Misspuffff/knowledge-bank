@@ -1,3 +1,9 @@
+---
+tags:
+  - type/note
+  - context/creative
+  - status/idea
+---
 # 💡 Ideas
 
 A running list of creative ideas, captured as they come.

@@ -1,3 +1,8 @@
+---
+tags:
+  - type/person
+  - context/people
+---
 # Gunnar
 
 - Relationship: Boyfriend

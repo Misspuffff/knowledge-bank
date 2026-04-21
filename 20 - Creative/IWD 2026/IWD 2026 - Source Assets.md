@@ -1,5 +1,8 @@
 ---
-tags: [type/reference, context/iwd-2026, status/archive]
+tags:
+  - type/reference
+  - project/iwd-2026
+  - topic/assets
 ---
 
 # IWD 2026 — Source Assets

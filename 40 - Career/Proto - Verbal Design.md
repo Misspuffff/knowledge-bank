@@ -1,5 +1,9 @@
 ---
-tags: [type/opportunity, context/career, status/active]
+tags:
+  - type/opportunity
+  - context/career
+  - client/proto
+  - status/active
 ---
 
 # Proto — Associate Verbal Designer

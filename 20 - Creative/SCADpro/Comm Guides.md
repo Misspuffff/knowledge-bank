@@ -1,5 +1,8 @@
 ---
-tags: [type/reference, status/archive]
+tags:
+  - type/reference
+  - context/scadpro
+  - topic/communication
 ---
 
 # Comm Guides

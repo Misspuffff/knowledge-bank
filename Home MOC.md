@@ -1,5 +1,8 @@
 ---
-tags: [type/MOC, status/active, context/home]
+tags:
+  - type/MOC
+  - context/home
+  - status/active
 ---
 
 # Home

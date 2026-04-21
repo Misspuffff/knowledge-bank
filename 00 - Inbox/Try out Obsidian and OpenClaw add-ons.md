@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/inbox
+  - topic/tools
+  - status/idea
+---
 # Try out Obsidian and OpenClaw add-ons
 
 #idea #explore

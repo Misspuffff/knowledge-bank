@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/scadpro, client/adobe, status/complete]
+tags:
+  - type/project
+  - context/scadpro
+  - client/adobe
+  - status/complete
 ---
 
 # Adobe Wander

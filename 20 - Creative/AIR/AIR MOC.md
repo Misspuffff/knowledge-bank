@@ -1,8 +1,8 @@
 ---
 tags:
+  - type/MOC
   - project/air
-  - MOC
-  - active
+  - status/active
 created: 2026-04-15
 status: paused
 type: MOC

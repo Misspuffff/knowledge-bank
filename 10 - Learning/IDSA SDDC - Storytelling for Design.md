@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/learning
+  - topic/storytelling
+  - topic/design
+---
 # IDSA SDDC — Storytelling for Design
 
 > **Source:** IDSA SDDC panel / workshop

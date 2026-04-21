@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - context/creative
+  - topic/writing
+  - status/idea
+---
 # Story Seeds
 
 > One-liners, images, overheard lines, what-ifs. Stuff that might become something someday.

@@ -1,3 +1,9 @@
+---
+tags:
+  - type/MOC
+  - context/learning
+  - status/active
+---
 # Learning MOC
 
 > An index of everything you're actively learning. Add a link when a note feels worth keeping.

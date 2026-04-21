@@ -1,9 +1,14 @@
 ---
-tags: [project/flow, language, naming]
+tags:
+  - type/reference
+  - project/flow
+  - topic/interaction
+  - topic/design
 created: 2026-04-15
 status: active
 type: reference
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — Interaction Vocabulary

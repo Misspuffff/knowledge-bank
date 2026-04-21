@@ -1,5 +1,9 @@
 ---
-tags: [type/opportunity, context/career, status/cold]
+tags:
+  - type/opportunity
+  - context/career
+  - client/neuralink
+  - status/cold
 ---
 
 # Neuralink — Content Creator

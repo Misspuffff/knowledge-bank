@@ -1,5 +1,9 @@
 ---
-tags: [project/air, tech, architecture]
+tags:
+  - type/reference
+  - project/air
+  - topic/architecture
+  - topic/tech-stack
 created: 2026-04-15
 type: reference
 ---

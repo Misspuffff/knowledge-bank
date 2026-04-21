@@ -1,3 +1,10 @@
+---
+tags:
+  - type/reference
+  - project/lookline
+  - topic/copywriting
+  - topic/email
+---
 # 04 — Email Notifications: Client
 *All client-facing transactional emails. Brief + copy drafts in one place.*
 

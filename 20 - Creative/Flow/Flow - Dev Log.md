@@ -1,9 +1,13 @@
 ---
-tags: [project/flow, dev-log]
+tags:
+  - type/log
+  - project/flow
+  - topic/development
 created: 2026-04-15
 status: active
 type: log
-up: [[Flow MOC]]
+up:
+  - - Flow MOC
 ---
 
 # Flow — Dev Log

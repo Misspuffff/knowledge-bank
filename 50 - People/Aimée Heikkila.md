@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/adobe
+---
 # Aimée Heikkila
 
 **Role:** Recruiter @ Adobe

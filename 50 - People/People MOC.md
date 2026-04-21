@@ -1,3 +1,9 @@
+---
+tags:
+  - type/MOC
+  - context/people
+  - status/active
+---
 # People
 
 > Key contacts. Keep entries short — relationship context, last touch, what's relevant now.

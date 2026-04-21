@@ -1,3 +1,9 @@
+---
+tags:
+  - type/person
+  - context/people
+  - client/proto
+---
 # Erin Noel
 
 **Role:** Freelance Recruiting Partner — working with [Proto](https://wearepro.to)

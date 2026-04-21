@@ -1,5 +1,8 @@
 ---
-tags: [type/reference, context/scadpro, client/skullcandy, status/archive]
+tags:
+  - type/reference
+  - context/scadpro
+  - topic/materials
 ---
 
 # CMF Studies

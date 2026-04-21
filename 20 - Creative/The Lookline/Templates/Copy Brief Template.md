@@ -1,3 +1,9 @@
+---
+tags:
+  - type/template
+  - project/lookline
+  - topic/copywriting
+---
 # Copy Brief Template
 *Use this whenever you're starting a new piece of copy.*
 

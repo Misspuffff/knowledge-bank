@@ -1,5 +1,9 @@
 ---
-tags: [type/project, context/writing, status/archive]
+tags:
+  - type/project
+  - context/creative
+  - topic/writing
+  - status/archive
 ---
 
 # Writing Portfolio

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/opportunity
+  - context/career
+  - client/adobe
+  - status/active
+---
 # Adobe — Experience Designer, Video Apps
 
 **Status:** 🟡 Waiting — role formally opening soon

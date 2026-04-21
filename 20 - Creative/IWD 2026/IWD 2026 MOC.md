@@ -1,9 +1,15 @@
 ---
-tags: [project/iwd-2026, MOC, complete]
+tags:
+  - type/MOC
+  - project/iwd-2026
+  - status/complete
 created: 2026-04-15
 status: complete
 type: MOC
-aliases: [IWD 2026, International Women's Day 2026, Gender Gap Project]
+aliases:
+  - IWD 2026
+  - International Women's Day 2026
+  - Gender Gap Project
 ---
 
 # IWD 2026 — Map of Content

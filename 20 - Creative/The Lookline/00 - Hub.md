@@ -1,3 +1,9 @@
+---
+tags:
+  - type/MOC
+  - project/lookline
+  - status/active
+---
 # The Lookline — Copy Studio
 
 > *Real stylists. Real clothes. Real you.*
