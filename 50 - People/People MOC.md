@@ -17,9 +17,31 @@ tags:
 | [[Michael Podell]] | Verbal designer @ Proto | Post-Zoom, round 2 pending |
 | [[Erin Noel]] | Freelance recruiter @ Proto | Active in thread |
 | [[Aimée Heikkila]] | Recruiter @ Adobe | Waiting on role posting — stay warm |
+| [[Gabi Duncombe]] | Sr. Design Manager @ Adobe | Moved me to next round — pipeline open |
 | [[Emily Rodrigues]] | Talent Coordinator @ Adobe | Warm — explored PM path together |
 | [[Dayna Weir]] | Simplicity CI (Microsoft contract) | Resume submitted — check in |
 | [[Nick Hughes]] | CD @ Parliament (Portland) | Intro call prepped |
+| [[Kate Fittinghoff]] | Career mentor (Oberlin → MSCHF) | Last met Jun 2025 — overdue check-in |
+| [[Bronagh Mcaleese]] | Coordinator @ Group of Humans | Owe reply re: FT/LLC status |
+
+---
+
+## Active clients
+
+| Person | Role | Status |
+|---|---|---|
+| [[Monica Saba]] | PM @ The LookLine (Sartorian) | Active — onboarded Apr 6, 2026 |
+
+---
+
+## Cold / dormant
+
+| Person | Context | Last Touch |
+|---|---|---|
+| [[Emilio Arellano]] | SCADpro feature article | Jan 2026 — article TBD |
+| [[Gil Weinberg]] | GT prof — HEAR MI commission | Oct 2025 — never sent estimate |
+| [[Rachel Fox]] | Director, Woden | Feb 20, 2026 — closed thread, warm |
+| [[Adobe Interview Coordinators]] | Logistics for Oct 2025 Adobe rounds | Reference only |
 
 ---
 

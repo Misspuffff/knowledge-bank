@@ -40,6 +40,7 @@ tags:
 | [[Neuralink - Content Creator\|Content Creator]] | Neuralink | Silent since Dec 22, 2025 — close thread |
 | Associate Producer | MKG | Submitted Jan 14 — no response |
 | *(unclear role)* | BrainRocket | Submitted Feb 24 — no response |
+| Senior Brand Storyteller | Woden | Rejected Feb 20, 2026 — warm contact ([[../50 - People/Rachel Fox\|Rachel Fox]]) |
 
 ---
 
@@ -50,9 +51,16 @@ tags:
 | [[../50 - People/Michael Podell\|Michael Podell]] | Proto — verbal design lead | Feb 3 Zoom; replied 1:57 PM same day | Warm, engaged — round 2 pending |
 | [[../50 - People/Erin Noel\|Erin Noel]] | Proto — freelance recruiter | Feb 3 — in thread | Opened the door, pivoted the role to fit me |
 | [[../50 - People/Aimée Heikkila\|Aimée Heikkila]] | Adobe recruiter | Follow-up sent | Role shaped around my pitch — ~1 mo out |
+| [[../50 - People/Gabi Duncombe\|Gabi Duncombe]] | Adobe — Sr. Design Manager | Sep 24, 2025 — moved to next round | Took the AIR quiz; engaged hands-on |
 | [[../50 - People/Dayna Weir\|Dayna Weir]] | Simplicity CI (Microsoft role) | Resume submitted | Contract role |
 | [[../50 - People/Emily Rodrigues\|Emily Rodrigues]] | Adobe talent coordinator | LinkedIn message sent | Exploring PM path |
 | [[../50 - People/Nick Hughes\|Nick Hughes]] | CD @ Parliament (Portland) | Intro call prepped | Brand positioning agency |
+| [[../50 - People/Kate Fittinghoff\|Kate Fittinghoff]] | Career mentor (Oberlin → MSCHF) | Jun 20, 2025 | Generous, checks in unprompted — overdue |
+| [[../50 - People/Bronagh Mcaleese\|Bronagh Mcaleese]] | Group of Humans (London) | Jan 13, 2026 | Owe reply re: FT/LLC status |
+| [[../50 - People/Monica Saba\|Monica Saba]] | PM @ The LookLine | Apr 14, 2026 | Active client — copywriting contract |
+| [[../50 - People/Emilio Arellano\|Emilio Arellano]] | SCADpro feature writer | Jan 2026 | Article in progress; SCADpro work spotlighted |
+| [[../50 - People/Rachel Fox\|Rachel Fox]] | Woden — Director of People + Culture | Feb 20, 2026 | Closed but warm — re-open if junior role appears |
+| [[../50 - People/Gil Weinberg\|Gil Weinberg]] | GT prof — HEAR MI commission | Oct 17, 2025 | Cold — could revive if I want a paid project |
 | Noelle | Adobe (former classmate) | Reached out | Insider perspective |
 
 ---

@@ -92,10 +92,18 @@ tags:
 | [[50 - People/Michael Podell\|Michael Podell]] | Verbal designer @ Proto — hiring-side for the role |
 | [[50 - People/Erin Noel\|Erin Noel]] | Freelance recruiter @ Proto — opened the door |
 | [[50 - People/Aimée Heikkila\|Aimée Heikkila]] | Adobe recruiter — waiting on role posting |
+| [[50 - People/Gabi Duncombe\|Gabi Duncombe]] | Adobe Sr. Design Manager — moved me to next round |
 | [[50 - People/Dayna Weir\|Dayna Weir]] | Simplicity CI — Microsoft contract role |
 | [[50 - People/Emily Rodrigues\|Emily Rodrigues]] | Adobe talent coordinator — PM path conversation |
 | [[50 - People/Nick Hughes\|Nick Hughes]] | CD @ Parliament, Portland — intro call prepped |
 | [[50 - People/Greg (Kickr)\|Greg (Kickr)]] | Colleague — need to connect on LinkedIn |
+| [[50 - People/Monica Saba\|Monica Saba]] | PM @ The LookLine — active copywriting client |
+| [[50 - People/Bronagh Mcaleese\|Bronagh Mcaleese]] | Group of Humans (London) — owes reply on FT/LLC |
+| [[50 - People/Kate Fittinghoff\|Kate Fittinghoff]] | Career mentor (Oberlin → MSCHF path) |
+| [[50 - People/Emilio Arellano\|Emilio Arellano]] | SCADpro feature writer — article TBD |
+| [[50 - People/Gil Weinberg\|Gil Weinberg]] | GT prof — HEAR MI consulting (cold) |
+| [[50 - People/Rachel Fox\|Rachel Fox]] | Director, Woden — closed but warm |
+| [[50 - People/Adobe Interview Coordinators\|Adobe Interview Coordinators]] | Reference: Harshit, Jackson, Ailin |
 
 ---
 
