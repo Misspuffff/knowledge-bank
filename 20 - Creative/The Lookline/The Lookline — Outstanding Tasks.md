@@ -8,7 +8,7 @@
 
 - [ ] Review hook copy for Earth Day post — ensure it's catchy and direct *(from Apr 20 standup)*
 
-- [ ] Request MailChimp credentials from Monica
+- [x] Request MailChimp credentials from Monica ✅ 2026-04-21
 - [ ] Request help desk email access from Monica
 - [ ] Review updated promo code screens — calibrate tone/context expectations
 - [ ] Write "How It Works" page copy — storytelling headers, consistent density; save Word doc to Drive
@@ -19,8 +19,8 @@
 
 ## 🟡 Medium Priority
 
-- [ ] Schedule manager meeting for next week (9–5 CST, any day) — admin portal + CS strategy walkthrough
-- [ ] Review Aaron's Drive folder — templates + reference copy in the copywriting folder
+- [x] Schedule manager meeting for next week (9–5 CST, any day) — admin portal + CS strategy walkthrough ✅ 2026-04-21
+- [x] Review Erin's Drive folder — templates + reference copy in the copywriting folder ✅ 2026-04-21
 
 ---
 
