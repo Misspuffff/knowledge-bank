@@ -132,3 +132,17 @@ We need to go back to telling "cave stories" about morality — stories that enc
 - **This is why designers need to be at the forefront.** Not a footnote. Designers are the ones deciding how things feel, what behaviors they reward, what values they embody.
 
 There's a talk in this. Or a LinkedIn essay. Or both.
+
+---
+
+## Designers as mythmakers (April 2026)
+
+*The cave story problem is a UX problem.*
+
+Mythmakers around fires didn't just tell stories — they encoded values into the architecture of memory. The stories spread. The behaviors spread with them. That's how culture transmits what it cares about.
+
+Designers are doing that now. Every product decision — what a button rewards, what an interaction makes feel natural, what an emotion a screen triggers — is a value judgment wearing the costume of a design decision. Most people making those decisions don't think of themselves as mythmakers. They should.
+
+*Stories are 22x more memorable than facts.* Which means the shape of a thing — the narrative baked into how it works — is more powerful than any policy document layered on top.
+
+The cave story is a UX problem. Someone needs to write that essay. It might be you.
