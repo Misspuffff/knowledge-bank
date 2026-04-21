@@ -1,7 +1,7 @@
 # Adobe — Experience Designer, Video Apps
 
 **Status:** 🟡 Waiting — role formally opening soon
-**Recruiter:** [[../50 - People/Aimée Heikkila|Aimée Heikkila]]
+**Recruiter:** [[Aimée Heikkila|Aimée Heikkila]]
 **Track:** Full posted process, but strong internal advocacy
 
 ---

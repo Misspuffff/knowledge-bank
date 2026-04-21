@@ -8,7 +8,7 @@
 
 **Who I am:** Creative Technologist — storyteller + builder + designer + PM hybrid.
 **Core philosophy:** *"Humans and stories have always been at the center of the creative experience. I design to enhance this — never replace it."*
-**Background:** BFA Dramatic Writing, SCAD (magna cum laude, 3.8 GPA)
+**Background:** BFA Dramatic Writing, SCAD (magna cum laude, 3.8 GPA) — see [[Academic Records]]
 **Currently:** Brand Communication & Creative Technologist Lead @ Kickr Design (month 7+)
 **Target:** Role at an ethical AI / creative tools company that actually values what I bring
 
@@ -18,8 +18,8 @@
 
 | Role | Company | Status | Next Action |
 |---|---|---|---|
-| [[Job Search/Adobe - Experience Designer\|Experience Designer, Video Apps]] | Adobe | Waiting — role opening via Aimée | Monitor, stay warm |
-| [[Job Search/Microsoft Creative Technologist\|Creative Technologist (Contract)]] | Microsoft | Applied via Simplicity CI | Follow up w/ Dayna |
+| [[Adobe - Experience Designer\|Experience Designer, Video Apps]] | Adobe | Waiting — role opening via Aimée | Monitor, stay warm |
+| [[Microsoft Creative Technologist\|Creative Technologist (Contract)]] | Microsoft | Applied via Simplicity CI | Follow up w/ Dayna |
 
 ---
 
@@ -49,7 +49,14 @@
 
 ## Portfolio
 
-[[Portfolio Status]]
+- [[Portfolio Status]] — live site, fixes, demo video queue
+- [[Portfolio Deliverables Archive]] — PDFs, decks, panels by date
+
+---
+
+## Credentials
+
+- [[Academic Records]] — SCAD transcript + honors badges (AMP, Presidential Scholar, Dean's List × 3)
 
 ---
 
@@ -63,8 +70,8 @@
 
 ## Key Differentiators to keep articulating
 
-- Published research: Google ICML 2024 — Gen Z + AI
+- Published research: [[../20 - Creative/SCADpro/Google Gen Z AI Research|Google ICML 2024 — Gen Z + AI]]
 - Technical builder: Cursor, Lovable, React, Gemini API, MediaPipe
-- Dramatic writing background = narrative-first thinking
+- Dramatic writing background = narrative-first thinking ([[../20 - Creative/Writing Portfolio|Writing Portfolio]])
 - Ethical AI as a genuine value, not a talking point
-- SCADpro Fortune 500 work: Google, Adobe, Mayo Clinic, Skullcandy, Deloitte, Great Dane
+- SCADpro Fortune 500 work: [[../20 - Creative/SCADpro/SCADpro MOC|SCADpro MOC]] — Google, Adobe, Mayo Clinic, Skullcandy, Deloitte, Great Dane

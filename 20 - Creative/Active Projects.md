@@ -54,7 +54,7 @@
 
 **Status:** Complete. Live. Case study written and in portfolio.
 
-**Full notes:** [[IWD 2026/IWD 2026 MOC|IWD 2026 MOC]]
+**Full notes:** [[IWD 2026/IWD 2026 MOC|IWD 2026 MOC]] · [[IWD 2026/IWD 2026 - Source Assets|Source Assets]]
 
 ---
 
@@ -73,6 +73,26 @@
 **Stack:** Cursor
 
 **Status:** Complete. Demo video still needed for portfolio.
+
+**Full notes:** [[SCADpro/Skullcandy CANDI|Skullcandy CANDI]] · [[SCADpro/CMF Studies|CMF Studies]]
+
+---
+
+## SCADpro archive (complete)
+
+Projects that aren't active but have portfolio presence or case-study value. Full index at [[SCADpro/SCADpro MOC|SCADpro MOC]].
+
+- [[SCADpro/Adobe Wander|Adobe Wander]] — SCAD × Adobe
+- [[SCADpro/Google Gen Z AI Research|Google — Gen Z AI Research]] — SCAD × Google, ICML 2024
+- [[SCADpro/Mayo Clinic Art Tour|Mayo Clinic Art Tour]] — SCAD × Mayo, accessible mobile app
+- [[SCADpro/Great Dane Broadhealth|Great Dane — Broadhealth]] — SCAD × Great Dane
+- [[SCADpro/Comm Guides|Comm Guides]] (reference)
+
+---
+
+## Writing
+
+- [[Writing Portfolio]] — screenplays, pilots, essays (Chattery Teeth, MAM, He's a Keeper, Girl Math)
 
 ---
 

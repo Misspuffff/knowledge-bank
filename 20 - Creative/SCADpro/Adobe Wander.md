@@ -22,7 +22,7 @@ Designer on the SCADpro team.
 
 ## Related
 - Note: this is separate from **Adobe Synesthesia** (speculative concept) — see [[../../40 - Career/Portfolio Status]]
-- Adobe relationship: [[../../50 - People/Aimée Heikkila|Aimée Heikkila]] (recruiter), [[../../40 - Career/Adobe - Experience Designer|Adobe — Experience Designer]]
+- Adobe relationship: [[../../50 - People/Aimée Heikkila|Aimée Heikkila]] (recruiter), [[Adobe - Experience Designer|Adobe — Experience Designer]]
 
 ## Open threads
 - [ ] Confirm project name — is "Wander" the public name or an internal codename?
