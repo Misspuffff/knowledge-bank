@@ -8,6 +8,8 @@
 
 | Person | Role | Status |
 |---|---|---|
+| [[Michael Podell]] | Verbal designer @ Proto | Post-Zoom, round 2 pending |
+| [[Erin Noel]] | Freelance recruiter @ Proto | Active in thread |
 | [[Aimée Heikkila]] | Recruiter @ Adobe | Waiting on role posting — stay warm |
 | [[Emily Rodrigues]] | Talent Coordinator @ Adobe | Warm — explored PM path together |
 | [[Dayna Weir]] | Simplicity CI (Microsoft contract) | Resume submitted — check in |

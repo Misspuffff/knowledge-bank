@@ -18,6 +18,8 @@ tags: [type/MOC, status/active, context/home]
 | AIR | Phase 2 in progress | MediaPipe Tasks Vision migration |
 | Flow | Active | Synesthetic gradient + export features |
 | Portfolio | Fixes outstanding | [[40 - Career/Portfolio Status\|See portfolio status]] |
+| Proto — Verbal Design | In process | [[40 - Career/Proto - Verbal Design\|Waiting on Michael]] — nudge if silent |
+| Anthropic — Brand Designer | Submitted Feb 2026 | [[40 - Career/Anthropic - Brand Designer\|Monitor; pivot to warm intro in 2 wks]] |
 | Adobe role | Waiting | Role opening via Aimée — stay warm |
 | Microsoft CT | Applied | Follow up with Dayna |
 
@@ -32,6 +34,7 @@ tags: [type/MOC, status/active, context/home]
 | [[My Vault Map\|🗺 Vault Map]] | Find anything — full index |
 | [[30 - Reference/My Stack\|🛠 My Stack]] | Tools I build with |
 | [[40 - Career/Career MOC\|💼 Career]] | Job search, portfolio, contacts |
+| [[40 - Career/Application Tracker\|📋 Applications]] | Every application, newest first |
 | [[40 - Career/Portfolio Status\|🎨 Portfolio Status]] | Fixes + demo videos needed |
 | [[50 - People/People MOC\|👥 People]] | Key contacts |
 
@@ -50,8 +53,7 @@ tags: [type/MOC, status/active, context/home]
 *Ideas and intentions that don't belong anywhere yet*
 
 - Explore PM/program management path (Emily @ Adobe opened this door)
-- Reach out to Anthropic, Hugging Face, Runway ML, Mozilla, Descript
-- Proto agency — verbal design role (~6 months out)
+- Reach out to Hugging Face, Runway ML, Mozilla, Descript
 - Configure Daily Notes → `00 - Inbox/Daily Notes`
 - Huxe app — integrate with Obsidian or build custom daily brief
 
