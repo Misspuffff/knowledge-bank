@@ -6,7 +6,7 @@
 
 ## 🔴 High Priority
 
-- [ ] Review hook copy for Earth Day post — ensure it's catchy and direct *(from Apr 20 standup)*
+- [x] Review hook copy for Earth Day post — ensure it's catchy and direct *(from Apr 20 standup)* ✅ 2026-04-21
 
 - [x] Request MailChimp credentials from Monica ✅ 2026-04-21
 - [x] Request help desk email access from Monica ✅ 2026-04-21
@@ -27,7 +27,7 @@
 ## 🟢 Ongoing
 
 - [ ] Monitor + respond to help desk emails (once access is granted)
-- [ ] Get familiar with MailChimp audience — review email list gathered from website
+- [x] Get familiar with MailChimp audience — review email list gathered from website ✅ 2026-04-21
 
 ---
 
