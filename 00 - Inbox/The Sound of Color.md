@@ -4,6 +4,6 @@ In the 1920s, a Russian painter named Alexander Laszlo built a *Farblichtklavier
 
 ---
 
-🔗 [Listen to Air – Aphex Twin (YouTube Music)](https://music.youtube.com/search?q=aphex+twin+air)
+🔗 [[20 - Creative/AIR/AIR MOC|AIR]]
 
 #vault #inspiration #art #music #synesthesia
