@@ -10,19 +10,15 @@ tags:
 
 ---
 
-## Active (career-relevant)
+## Active (Adobe / transition-relevant)
 
 | Person | Role | Status |
 |---|---|---|
-| [[Michael Podell]] | Verbal designer @ Proto | Post-Zoom, round 2 pending |
-| [[Erin Noel]] | Freelance recruiter @ Proto | Active in thread |
-| [[Aimée Heikkila]] | Recruiter @ Adobe | Waiting on role posting — stay warm |
-| [[Gabi Duncombe]] | Sr. Design Manager @ Adobe | Moved me to next round — pipeline open |
-| [[Emily Rodrigues]] | Talent Coordinator @ Adobe | Warm — explored PM path together |
-| [[Dayna Weir]] | Simplicity CI (Microsoft contract) | Resume submitted — check in |
-| [[Nick Hughes]] | CD @ Parliament (Portland) | Intro call prepped |
-| [[Kate Fittinghoff]] | Career mentor (Oberlin → MSCHF) | Last met Jun 2025 — overdue check-in |
-| [[Bronagh Mcaleese]] | Coordinator @ Group of Humans | Owe reply re: FT/LLC status |
+| [[Lena Gambates]] | Hiring Manager, Digital Video & Audio @ Adobe | My manager — offer accepted May 2026 |
+| [[Ryan Biega]] | Recruiter @ Adobe | Active — confirm start date |
+| [[Emily Rodrigues]] | Sr. Design Program Manager @ Adobe | Warm — maintained through both loops |
+| [[Aimée Heikkila]] | Recruiter @ Adobe (prior loop) | Historical — R156577 |
+| [[Gabi Duncombe]] | Sr. Design Manager @ Adobe | Historical — prior loop |
 
 ---
 
@@ -30,7 +26,7 @@ tags:
 
 | Person | Role | Status |
 |---|---|---|
-| [[Monica Saba]] | PM @ The LookLine (Sartorian) | Active — onboarded Apr 6, 2026 |
+| [[Monica Saba]] | PM @ The LookLine (Sartorian) | Wind-down copywriting contract |
 
 ---
 
@@ -38,18 +34,27 @@ tags:
 
 | Person | Context | Last Touch |
 |---|---|---|
-| [[Emilio Arellano]] | SCADpro feature article | Jan 2026 — article TBD |
-| [[Gil Weinberg]] | GT prof — HEAR MI commission | Oct 2025 — never sent estimate |
-| [[Rachel Fox]] | Director, Woden | Feb 20, 2026 — closed thread, warm |
+| [[Michael Podell]] | Verbal designer @ Proto | Feb 2026 — role superseded; close warmly |
+| [[Erin Noel]] | Freelance recruiter @ Proto | Feb 2026 — in thread; no further action |
+| [[Emilio Arellano]] | SCADpro feature writer | Jan 2026 — article pending |
+| [[Gil Weinberg]] | GT prof — HEAR MI commission | Oct 2025 — cold |
+| [[Rachel Fox]] | Director, Woden | Feb 2026 — warm but closed |
 | [[Adobe Interview Coordinators]] | Logistics for Oct 2025 Adobe rounds | Reference only |
+| [[Nick Hughes]] | CD @ Parliament (Portland) | Moot for now |
+| [[Kate Fittinghoff]] | Career mentor (Oberlin → MSCHF) | Jun 2025 — worth a note when offer is public |
+| [[Bronagh Mcaleese]] | Coordinator @ Group of Humans | Jan 2026 — owe reply, moot now |
+| [[Dayna Weir]] | Simplicity CI (Microsoft contract) | Superseded |
 
 ---
 
-## Work contacts
+## Work contacts (current employer)
 
 | Person | Role | Status |
 |---|---|---|
-| [[Greg (Kickr)]] | Colleague | Need to connect on LinkedIn |
+| Seth | Direct supervisor | Resignation conversation — first |
+| Colin | Senior stakeholder | Inform after Seth |
+| Mike | Colleague | Inform directly |
+| [[Greg (Kickr)]] | Colleague | Inform directly; connect on LinkedIn |
 
 ---
 
@@ -57,7 +62,7 @@ tags:
 
 | Person | Note | Status |
 |---|---|---|
-| Tim | [[../40 - Career/Tim LinkedIn Book\|Tim LinkedIn Book]] | Building LinkedIn presence — scope TBD |
+| Tim | [[../40 - Career/Tim LinkedIn Book\|Tim LinkedIn Book]] | Wind down or hand off |
 
 ---
 
