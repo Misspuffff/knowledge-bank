@@ -17,14 +17,14 @@ tags:
 
 | Project | Status | Next action |
 |---|---|---|
-| CodeQuest | Session 12 up next | Content expansion for modules 4–9 |
-| AIR | Phase 2 in progress | MediaPipe Tasks Vision migration |
-| Flow | Active | Synesthetic gradient + export features |
-| Portfolio | Fixes outstanding | [[40 - Career/Portfolio Status\|See portfolio status]] |
-| Proto — Verbal Design | In process | [[40 - Career/Proto - Verbal Design\|Waiting on Michael]] — nudge if silent |
-| Anthropic — Brand Designer | Submitted Feb 2026 | [[40 - Career/Anthropic - Brand Designer\|Monitor; pivot to warm intro in 2 wks]] |
-| Adobe role | Waiting | Role opening via Aimée — stay warm |
-| Microsoft CT | Applied | Follow up with Dayna |
+| **Adobe — Product Designer** | ✅ Offer accepted | Resign this week — Seth first |
+| **Seattle Housing** | Active search | [[10 - Personal/Seattle Housing Search\|Housing Search]] — build shortlist |
+| **Resignation** | Ready | [[40 - Career/Resignation Letter\|Letter ready]] — execute mid-week |
+| CodeQuest | Paused (transition) | Resume post-relocation |
+| PYXEL | In progress | [[20 - Creative/PYXEL — Raspberry Pi Cyberdeck\|Cyberdeck]] — finalize chassis |
+| AIR | Paused | Phase 2 — MediaPipe Tasks Vision migration |
+| Flow | Paused | Synesthetic gradient + export features |
+| Lookline | Closing | [[20 - Creative/The Lookline/The Lookline — Contract Wind-Down\|Wind-down checklist]] |
 
 ---
 
@@ -36,9 +36,9 @@ tags:
 | [[00 - Inbox/Drop Zone\|📥 Drop Zone]] | Capture anything, no judgment |
 | [[My Vault Map\|🗺 Vault Map]] | Find anything — full index |
 | [[30 - Reference/My Stack\|🛠 My Stack]] | Tools I build with |
-| [[40 - Career/Career MOC\|💼 Career]] | Job search, portfolio, contacts |
-| [[40 - Career/Application Tracker\|📋 Applications]] | Every application, newest first |
-| [[40 - Career/Portfolio Status\|🎨 Portfolio Status]] | Fixes + demo videos needed |
+| [[40 - Career/Career MOC\|💼 Career]] | Adobe offer, resignation, next steps |
+| [[10 - Personal/Seattle Housing Search\|🏠 Seattle Housing]] | Criteria, neighborhoods, timeline |
+| [[10 - Personal/Seattle Healthcare Setup\|🏥 Seattle Healthcare]] | PT + GYN provider search |
 | [[50 - People/People MOC\|👥 People]] | Key contacts |
 
 ---
@@ -55,10 +55,10 @@ tags:
 ## Someday
 *Ideas and intentions that don't belong anywhere yet*
 
-- Explore PM/program management path (Emily @ Adobe opened this door)
-- Reach out to Hugging Face, Runway ML, Mozilla, Descript
 - Configure Daily Notes → `00 - Inbox/Daily Notes`
 - Huxe app — integrate with Obsidian or build custom daily brief
+- Write-up PYXEL build as portfolio artifact
+- Reach out to Kate Fittinghoff once Adobe is public
 
 ---
 

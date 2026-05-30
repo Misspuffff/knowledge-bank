@@ -10,17 +10,53 @@ tags:
 
 ---
 
+## Adobe — Product Designer ⬅️ NEW ROLE
+
+**What it is:** Full-time Product Designer role on the Digital Video & Audio team, Adobe Seattle.
+
+**Status:** ✅ Offer accepted May 2026. Resignation this week. Relocation: Atlanta → Seattle.
+
+**Next step:** Resign (Seth first, mid-week). Confirm start date. Begin housing search.
+
+**Full notes:** [[../40 - Career/Adobe - Product Designer|Adobe — Product Designer]]
+
+---
+
+## Seattle Relocation
+
+**What it is:** Move from Atlanta to Seattle ahead of Adobe start date.
+
+**Status:** Active planning — housing search underway, healthcare providers TBD.
+
+**Next step:** Confirm start date → set housing deadline → shortlist Ballard/Fremont/Wallingford options.
+
+**Full notes:** [[../10 - Personal/Seattle Housing Search|Seattle Housing Search]] · [[../10 - Personal/Seattle Healthcare Setup|Seattle Healthcare Setup]]
+
+---
+
+## PYXEL
+
+**What it is:** Handheld Raspberry Pi 5 cyberdeck — terminal-native environment for Python and AI learning.
+
+**Status:** Hardware sourced, software environment designed, curriculum outlined. Build in progress.
+
+**Next step:** Finalize chassis. Set up base OS image. Begin curriculum session 1.
+
+**Full notes:** [[PYXEL — Raspberry Pi Cyberdeck|PYXEL MOC]]
+
+---
+
 ## CodeQuest
 
-**What it is:** A JavaScript learning app built around a language-acquisition model — immersion first, vocabulary as translation, pattern recognition before production.
+**What it is:** A JavaScript learning app built around a language-acquisition model — immersion first, pattern recognition before production.
 
 **Stack:** React + Vite + Tailwind + Supabase
 
-**Status:** 10 Claude Code build sessions complete. App is functional with 10 modules, onboarding quiz, XP + hearts system, module quizzes with 80% pass threshold, remediation loops, and Supabase-backed progress persistence.
+**Status:** 10 Claude Code sessions complete. Paused during job transition / relocation.
 
-**Next step:** Session 12 — content expansion for modules 4–9.
+**Next step:** Resume post-Seattle move. Define MVP scope.
 
-**Links/refs:** [[../10 - Learning/JavaScript Notes|JavaScript Notes]]
+**Full notes:** [[../../CodeQuest Cyberdeck|CodeQuest]]
 
 ---
 
@@ -28,11 +64,11 @@ tags:
 
 **What it is:** A browser-based performance instrument — webcam input translates facial expressions and hand gestures into real-time audio and visual output.
 
-**Stack:** React + Vite, MediaPipe Tasks Vision API, Tone.js (GrainPlayer), Zustand, Canvas 2D API
+**Stack:** React + Vite, MediaPipe Tasks Vision API, Tone.js, Zustand, Canvas 2D API
 
-**Status:** Phase 2 in progress — Tasks Vision API migration + FaceLandmarker integration.
+**Status:** Paused during transition. Phase 2 in progress — Tasks Vision API migration + FaceLandmarker.
 
-**Next step:** Complete Phase 2 blendshape integration. Source `ambientwub.wav` for Phase 3.
+**Next step:** Resume post-relocation. Complete Phase 2 blendshape integration.
 
 **Full notes:** [[AIR/AIR MOC|AIR MOC]]
 
@@ -44,55 +80,45 @@ tags:
 
 **Stack:** React + TypeScript + Vite + Gemini API + Adobe Firefly
 
-**Status:** Phase 1 prototype built. Visual refinement + AI remix features in active development.
+**Status:** Paused during transition. Phase 1 prototype built.
 
-**Next step:** Implement synesthetic gradient system + export capabilities.
+**Next step:** Resume post-relocation. Synesthetic gradient system + export capabilities.
 
 **Full notes:** [[Flow/Flow MOC|Flow MOC]]
 
 ---
 
-## IWD 2026
+## The Lookline *(closing)*
+
+**What it is:** Copywriting contract — winding down due to full-time Adobe offer.
+
+**Status:** Closing. Notify Monica, deliver outstanding work, clean handoff.
+
+**Full notes:** [[The Lookline/The Lookline — Contract Wind-Down|Wind-Down Checklist]] · [[The Lookline/00 - Hub|The Lookline Hub]]
+
+---
+
+## IWD 2026 *(complete)*
 
 **What it is:** Research-driven editorial web experience investigating the gender gap in design, AI, and engineering.
 
 **Stack:** Lovable + Claude
 
-**Status:** Complete. Live. Case study written and in portfolio.
+**Status:** Complete. Live. Case study in portfolio.
 
-**Full notes:** [[IWD 2026/IWD 2026 MOC|IWD 2026 MOC]] · [[IWD 2026/IWD 2026 - Source Assets|Source Assets]]
-
----
-
-## The Lookline
-
-**What it is:** Ongoing copywriting contract.
-
-**Full notes:** [[The Lookline/00 - Hub|The Lookline Hub]]
+**Full notes:** [[IWD 2026/IWD 2026 MOC|IWD 2026 MOC]]
 
 ---
 
-## Skullcandy — CANDI
+## SCADpro archive *(complete)*
 
-**What it is:** SCADpro project. AI companion experience paired with a Multiverse web experience. Personas: OG, Chiller, Yolo, Loserdom, Punkthorn.
+Projects with portfolio presence or case-study value. Full index at [[SCADpro/SCADpro MOC|SCADpro MOC]].
 
-**Stack:** Cursor
-
-**Status:** Complete. Demo video still needed for portfolio.
-
-**Full notes:** [[SCADpro/Skullcandy CANDI|Skullcandy CANDI]] · [[SCADpro/CMF Studies|CMF Studies]]
-
----
-
-## SCADpro archive (complete)
-
-Projects that aren't active but have portfolio presence or case-study value. Full index at [[SCADpro/SCADpro MOC|SCADpro MOC]].
-
+- [[SCADpro/Skullcandy CANDI|Skullcandy CANDI]] — demo video still needed
 - [[SCADpro/Adobe Wander|Adobe Wander]] — SCAD × Adobe
 - [[SCADpro/Google Gen Z AI Research|Google — Gen Z AI Research]] — SCAD × Google, ICML 2024
-- [[SCADpro/Mayo Clinic Art Tour|Mayo Clinic Art Tour]] — SCAD × Mayo, accessible mobile app
-- [[SCADpro/Great Dane Broadhealth|Great Dane — Broadhealth]] — SCAD × Great Dane
-- [[SCADpro/Comm Guides|Comm Guides]] (reference)
+- [[SCADpro/Mayo Clinic Art Tour|Mayo Clinic Art Tour]] — SCAD × Mayo
+- [[SCADpro/Great Dane Broadhealth|Great Dane — Broadhealth]]
 
 ---
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - project/lookline
+  - topic/copywriting
+  - status/archive
+---
 # The Lookline — Onboarding Notes
 
 **Date:** April 17, 2026

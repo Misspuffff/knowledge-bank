@@ -1,3 +1,10 @@
+---
+tags:
+  - type/note
+  - project/lookline
+  - topic/meeting-notes
+  - status/archive
+---
 # TLL 2026 — Creative Team Standup Notes
 
 **Date:** April 20, 2026

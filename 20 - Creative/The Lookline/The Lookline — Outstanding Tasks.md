@@ -1,6 +1,13 @@
+---
+tags:
+  - type/tracker
+  - project/lookline
+  - topic/copywriting
+  - status/closing
+---
 # The Lookline — Outstanding Tasks
 
-*Last updated: April 21, 2026*
+*Last updated: April 21, 2026 — Contract winding down as of May 2026. See [[The Lookline — Contract Wind-Down]].*
 
 ---
 
